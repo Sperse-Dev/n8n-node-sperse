@@ -119,6 +119,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['create'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Prefix',
@@ -263,6 +264,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['create'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Street',
@@ -334,6 +336,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['create'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Company Name',
@@ -387,6 +390,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['create'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Professional Experience',
@@ -448,6 +452,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['create'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Source Code',
@@ -589,6 +594,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Ignore Invalid Values',
@@ -694,6 +700,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Prefix',
@@ -931,6 +938,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Home Street',
@@ -1003,6 +1011,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Website',
@@ -1131,6 +1140,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Company Name',
@@ -1291,6 +1301,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Company Street',
@@ -1356,6 +1367,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Company Website',
@@ -1439,6 +1451,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Work Phone',
@@ -1504,6 +1517,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Work Street',
@@ -1569,6 +1583,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Assigned User',
@@ -1721,6 +1736,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'UTM Source',
@@ -1834,6 +1850,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Product Code',
@@ -1929,6 +1946,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Product Code',
@@ -2024,6 +2042,7 @@ export const contactFields: INodeProperties[] = [
 				operation: ['update'],
 			},
 		},
+		// eslint-disable-next-line n8n-nodes-base/node-param-collection-type-unsorted-items
 		options: [
 			{
 				displayName: 'Product Code',
