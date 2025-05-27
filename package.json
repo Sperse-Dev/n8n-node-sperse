@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-sperse",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Sperse CRM enables secure payment processing and affiliate marketing for online businesses",
 	"keywords": [
 		"n8n-community-node-package"
